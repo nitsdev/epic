@@ -20,6 +20,10 @@
     bottom: 45px;
     z-index: 99;
 }
+.logofix{
+    max-width: 320px !important;
+    max-height: 60px !important;
+}
 
 
 /*** Spinner ***/
